@@ -1,13 +1,11 @@
 import React from 'react';
+
+import './assets/styles/custom.scss';
 import './App.css';
+import Routes from './Routes';
 
 const App = () => {
-    return (
-        <>
-            <h1>Desafio Github API</h1>
-            <h3>Bootcamp Spring React - DevSuperior</h3>
-        </>
-    );
+    return <Routes />;
 };
 
 export default App;
