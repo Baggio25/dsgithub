@@ -21,3 +21,7 @@ a:hover {
     text-decoration: none;
     color: unset;
 }
+
+.application-container {
+    padding: 54px 100px 126px 90px;
+}

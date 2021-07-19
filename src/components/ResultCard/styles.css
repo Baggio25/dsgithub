@@ -1,0 +1,23 @@
+.image-result-container img {
+    width: 247px;
+    height: 247px;
+}
+
+.title-result-container {
+    margin-left: 14px;
+    font-weight: 500;
+    color: #1890FF;
+}
+
+.data-result-container {
+    display: flex;
+    flex-direction: column;
+    padding-top: 8px;
+    margin-left: 30px;
+    width: 100%;
+
+    background-color: #FFFFFF;
+    border: 1px solid #D9D9D9;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
